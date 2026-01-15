@@ -1,0 +1,124 @@
+# ==============================
+# 1. FOREX – PARES (38)
+# ==============================
+USD/BRL=X - Dólar Americano / Real Brasileiro
+EUR/BRL=X - Euro / Real Brasileiro
+GBP/BRL=X - Libra Esterlina / Real Brasileiro
+AUD/BRL=X - Dólar Australiano / Real Brasileiro
+CAD/BRL=X - Dólar Canadense / Real Brasileiro
+NZD/BRL=X - Dólar Neozelandês / Real Brasileiro
+USD/EUR=X - Dólar Americano / Euro
+USD/JPY=X - Dólar Americano / Iene Japonês
+USD/CHF=X - Dólar Americano / Franco Suíço
+USD/CAD=X - Dólar Americano / Dólar Canadense
+USD/AUD=X - Dólar Americano / Dólar Australiano
+USD/NZD=X - Dólar Americano / Dólar Neozelandês
+USD/CNY=X - Dólar Americano / Yuan Chinês
+USD/HKD=X - Dólar Americano / Dólar de Hong Kong
+USD/MXN=X - Dólar Americano / Peso Mexicano
+USD/ARS=X - Dólar Americano / Peso Argentino
+USD/CLP=X - Dólar Americano / Peso Chileno
+USD/COP=X - Dólar Americano / Peso Colombiano
+USD/PEN=X - Dólar Americano / Sol Peruano
+USD/ZAR=X - Dólar Americano / Rand Sul-Africano
+USD/INR=X - Dólar Americano / Rupia Indiana
+USD/KRW=X - Dólar Americano / Won Sul-Coreano
+USD/TRY=X - Dólar Americano / Lira Turca
+USD/RUB=X - Dólar Americano / Rublo Russo
+USD/SGD=X - Dólar Americano / Dólar de Singapura
+USD/THB=X - Dólar Americano / Baht Tailandês
+USD/MYR=X - Dólar Americano / Ringgit Malaio
+USD/PHP=X - Dólar Americano / Peso Filipino
+USD/IDR=X - Dólar Americano / Rupia Indonésia
+USD/AED=X - Dólar Americano / Dirham dos Emirados
+USD/SAR=X - Dólar Americano / Riyal Saudita
+USD/ILS=X - Dólar Americano / Novo Shekel Israelense
+USD/SEK=X - Dólar Americano / Coroa Sueca
+USD/NOK=X - Dólar Americano / Coroa Norueguesa
+USD/DKK=X - Dólar Americano / Coroa Dinamarquesa
+USD/PLN=X - Dólar Americano / Zloty Polonês
+USD/CZK=X - Dólar Americano / Coroa Tcheca
+USD/HUF=X - Dólar Americano / Forint Húngaro
+
+# ==============================
+# 2. AÇÕES BRASILEIRAS – B3 (38)
+# ==============================
+PETR4.SA - Petrobras PN
+PETR3.SA - Petrobras ON
+VALE3.SA - Vale S.A.
+ITUB4.SA - Itaú Unibanco PN
+BBDC4.SA - Bradesco PN
+BBAS3.SA - Banco do Brasil
+ABEV3.SA - Ambev
+WEGE3.SA - WEG
+RENT3.SA - Localiza
+SUZB3.SA - Suzano
+PRIO3.SA - PRIO
+JBSS3.SA - JBS
+BRFS3.SA - BRF
+CSNA3.SA - CSN
+GGBR4.SA - Gerdau PN
+USIM5.SA - Usiminas PN
+KLBN11.SA - Klabin Units
+ELET3.SA - Eletrobras ON
+ELET6.SA - Eletrobras PN
+ENGI11.SA - Energisa Units
+EQTL3.SA - Equatorial Energia
+CPFE3.SA - CPFL Energia
+TAEE11.SA - Taesa Units
+RAIL3.SA - Rumo
+VBBR3.SA - Vibra Energia
+LREN3.SA - Lojas Renner
+MGLU3.SA - Magazine Luiza
+AMER3.SA - Americanas
+ASAI3.SA - Assaí
+B3SA3.SA - B3
+CVCB3.SA - CVC
+RADL3.SA - Raia Drogasil
+HAPV3.SA - Hapvida
+FLRY3.SA - Fleury
+QUAL3.SA - Qualicorp
+YDUQ3.SA - Yduqs
+COGN3.SA - Cogna
+BRKM5.SA - Braskem PN
+
+# ==============================
+# 3. FUNDOS E ETFS BRASILEIROS (37)
+# ==============================
+BOVA11.SA - ETF Ibovespa
+IVVB11.SA - ETF S&P 500
+SMAL11.SA - ETF Small Caps
+DIVO11.SA - ETF Dividendos
+HASH11.SA - ETF Criptomoedas
+GOLD11.SA - ETF Ouro
+XFIX11.SA - ETF Fundos Imobiliários
+BOVX11.SA - ETF Ibovespa Equal Weight
+BOVB11.SA - ETF Ibovespa
+SPXI11.SA - ETF S&P 500
+TECK11.SA - ETF Tecnologia
+ECOO11.SA - ETF Sustentabilidade
+HGLG11.SA - FII Logístico
+KNRI11.SA - FII Híbrido
+MXRF11.SA - FII Papel
+BCFF11.SA - FII FoF
+VISC11.SA - FII Shoppings
+XPML11.SA - FII Shoppings
+HGRE11.SA - FII Lajes Corporativas
+RECT11.SA - FII Lajes Corporativas
+RBRF11.SA - FII FoF
+ALZR11.SA - FII Logístico
+GGRC11.SA - FII Logístico
+BTLG11.SA - FII Logístico
+IRDM11.SA - FII Papel
+HGCR11.SA - FII Papel
+KNSC11.SA - FII Papel
+VGIP11.SA - FII Papel
+CPTS11.SA - FII Papel
+HCTR11.SA - FII High Yield
+DEVA11.SA - FII High Yield
+XPLG11.SA - FII Logístico
+JSRE11.SA - FII Lajes Corporativas
+PATL11.SA - FII Logístico
+LVBI11.SA - FII Logístico
+TRXF11.SA - FII Logístico
+RBVA11.SA - FII Varejo
