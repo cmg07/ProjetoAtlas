@@ -3,3 +3,9 @@ __pycache__/
 *.pyc
 .DS_Store
 .streamlit/
+
+.atlas_cache/
+__pycache__/
+*.pyc
+venv/
+
