@@ -1,0 +1,23 @@
+{
+  "3M": {
+    "reason": "no_data",
+    "ts": "2026-01-15 21:09:13",
+    "period": "2y",
+    "interval": "1d"
+  },
+  "Amazon.com": {
+    "reason": "no_data",
+    "ts": "2026-01-15 21:09:29",
+    "period": "2y",
+    "interval": "1d"
+  },
+  "11299": {
+    "reason": "no_data",
+    "ts": "2026-01-15 21:19:31",
+    "raw": "11299",
+    "final": "11299",
+    "period": "2y",
+    "interval": "1d",
+    "resolve_reason": "ok"
+  }
+}

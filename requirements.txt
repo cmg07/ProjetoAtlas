@@ -17,3 +17,7 @@ streamlit
 joblib
 requests
 beautifulsoup4
+openpyxl>=3.1.0
+openpyxl
+
+
